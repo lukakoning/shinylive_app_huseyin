@@ -3,3 +3,4 @@ renv/*
 /docs
 /site
 .Rprofile
+.Rhistory
