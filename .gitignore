@@ -3,3 +3,4 @@ renv/activate.R
 renv/settings.json
 /docs
 /site
+.Rprofile
