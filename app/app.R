@@ -1,6 +1,6 @@
 # Data must be placed within 'app' folder
 # During development: set working directory to the folder containing the app.R file
-# Once done, to export: shinylive::export("./", "../docs")
+# Once done, to export: shinylive::export("./", "../site")
 
 #### 0 Libraries ####
 
